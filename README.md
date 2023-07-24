@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey, I'm Bossman7309
+Casual Linux enjoyer
 
-<!--
-**Bossman7309/bossman7309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m also interested in coding, privacy and cybersecurity 
 
-Here are some ideas to get you started:
+https://github.com/iuseDebianbtw
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![Bossman7309s GitHub stats](https://github-readme-stats.vercel.app/api?username=bossman7309&show_icons=true&theme=dark)
+
+## my website:
+https://bossman7309.net/
+
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=linux,bsd,vim,raspberrypi,docker,cloudflare,git,python,bash,html,css)](https://skillicons.dev)
