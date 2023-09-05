@@ -7,7 +7,7 @@ I’m also interested in coding, privacy and cybersecurity
 https://github.com/iuseDebianbtw
 
 ## Stats
-![Bossman7309s GitHub stats](https://github-readme-stats.vercel.app/api?username=bossman7309&show_icons=true&theme=dark)
+![qvyu GitHub stats](https://github-readme-stats.vercel.app/api?username=bossman7309&show_icons=true&theme=dark)
 
 ## my website:
 https://bossman7309.net/
